@@ -1,0 +1,18 @@
+{
+  "name": "nightmare_get_categories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "encoding-japanese": "^1.0.29",
+    "iconv-lite": "^0.4.24",
+    "nightmare": "^3.0.1",
+    "papaparse": "^4.6.0",
+    "vo": "^4.0.2"
+  }
+}

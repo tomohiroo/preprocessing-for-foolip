@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.0.0)
+    kuromoji (0.0.1)
+      rjb
+    rake (12.3.1)
+    rjb (1.5.5)
+    romaji (0.2.4)
+      rake (>= 0.8.0)
+    zipang (0.0.1)
+      kuromoji
+      romaji
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  csv
+  kuromoji
+  rjb
+  romaji
+  zipang
+
+BUNDLED WITH
+   1.16.2

@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'csv'
+gem 'rjb'
+gem 'kuromoji'
+gem 'romaji'
+gem 'zipang'
